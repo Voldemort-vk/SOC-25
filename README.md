@@ -1,1 +1,1 @@
-[MY Google Doc Link] (<iframe src="https://docs.google.com/document/d/e/2PACX-1vQ-U5E6N-s9CadLXrLSZEQaRxAa0ZpjGQ_IFuKFgOjOzfRb79UagssEFz3glFLWeeAzYVe3vugWNweQ/pub?embedded=true"></iframe>)
+[MY Google Doc Link] (https://docs.google.com/document/d/1JxoiU3NrUAuIoC17IYDje6gQCwUdFQw6n320yTstEo0/edit?usp=sharing)
